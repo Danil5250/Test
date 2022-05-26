@@ -2,4 +2,6 @@
 class Birthday: public Event
 {
 
+public:
+	void show();
 }
